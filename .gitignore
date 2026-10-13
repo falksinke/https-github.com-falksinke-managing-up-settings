@@ -1,0 +1,16 @@
+.DS_Store
+node_modules/
+dist/
+build/
+target/
+.tools/
+.venv*/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+credentials.json
